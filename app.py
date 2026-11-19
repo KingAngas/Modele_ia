@@ -14,7 +14,7 @@ MODELES = [
     ("🫁", "Détection de la tuberculose", "pages/4_Tuberculose.py",
      "Estime la probabilité de tuberculose sur une radiographie thoracique (VGG16)."),
     ("🩻", "Détection de la pneumonie", "pages/5_Pneumonie.py",
-     "Estime la probabilité de pneumonie sur une radiographie thoracique (VGG16)."),
+     "Estime la probabilité de pneumonie sur une radiographie thoracique (Densenet)."),
 ]
 
 st.title("🤖 Démonstrateur de modèles d'IA")
